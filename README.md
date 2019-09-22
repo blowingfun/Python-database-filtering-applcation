@@ -1,2 +1,2 @@
-# Python-database-filtering-applcation
-Will filter through the data of a csv file
+# Filtering through a database
+Please look at the 
