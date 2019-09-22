@@ -1,2 +1,2 @@
 # Filtering through a database
-Please look at the 
+For more information go to the summative file
